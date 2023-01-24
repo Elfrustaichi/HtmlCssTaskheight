@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Lorem-text .Text p 
+{
+    max-width: 50%;
+    font-size: 30px;
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    max-height: 200px;
+    display: inline-block;
+    text-overflow: ellipsis;
+    height: 150px;
+    margin-bottom: 20px;
+    overflow: auto;
+
+}
+
+#Lorem-text .Text2 p 
+{
+    
+    font-weight: bold;
+    font-style: italic;
+ 
+   background-color: darkmagenta;
+   font-size: 100px;
+   max-height: 500px;
+   text-overflow: ellipsis;
+   overflow-x: scroll;
+ 
+  overflow: scroll;
+   
+
+
+}
+
+#Lorem-text 
+{
+background-color: aqua;
+max-width: 50%;
+height: 500px ;
+}
